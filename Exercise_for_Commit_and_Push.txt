@@ -1,0 +1,6 @@
+git clone, for downloading the project
+git add, to add files to repository
+git status, to check the status of the git repository
+git commit -m "Comment", putting stuff from the staging area to the local repository with the comment "Comment"
+git push, moving stuff from the local to the remote repository
+git pull, to update the local repository from the remote repository
